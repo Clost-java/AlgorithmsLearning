@@ -96,7 +96,7 @@ class SingleLinkListed {
         while (true) {
             if (temp == null) {
                 System.out.println("没有找到此节点");
-                ;
+
                 break;
             }
             if (temp.no == newHeroNode.no) {
